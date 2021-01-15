@@ -1,0 +1,14 @@
+{
+  "name": "jsdoc_reference",
+  "version": "1.0.0",
+  "description": "JSDoc reference",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "author": "ken okpara",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^3.6.6"
+  }
+}
